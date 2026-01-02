@@ -25,5 +25,5 @@ This repository contains my verified certifications in:
 - AI Agents – DeepLearning.AI
 - Azure AI Fundamentals – Microsoft
 
-📫 Contact: amazingakhil@gmail.com 
+📫 Contact: amazingakhil2006@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/akhil-vipin-nair-a5692635b/
